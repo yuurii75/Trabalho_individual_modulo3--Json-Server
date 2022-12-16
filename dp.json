@@ -1,79 +1,84 @@
 {
-  "Hamburgueres": [
+  "hamburgueres": [
     {
+      "id": 1,
       "nome": "Big Classico",
       "Big Classico": "Pao caseiro, hamburguer, 1 fatias de queijo cheddar, tomate e molho",
-      "preco": 12,
-      "id": 1
+      "preco": 12
     },
     {
+      "id": 2,
       "nome": "Big Burguer",
       "Big Burguer": "Pao caseiro, 2 hamburguer, 2 fatias de queijo cheddar, alface, tomate e molho",
-      "preco": 17,
-      "id": 2
+      "preco": 17
     },
     {
+      "id": 3,
       "nome": "X Burguer",
       "X Burguer": "Pao caseiro, 2 hamburguer, 2 fatias de queijo cheddar, ovo, bacon, alface e molho",
-      "preco": 25.90,
-      "id": 3
+      "preco": 25.90
     },
     {
+      "id": 4,
       "nome": "Big triplo",
       "Big triplo": "Pao caseiro, 3 hamburguer, 3 fatias de queijo cheddar, 3 ovos, bacon, alface e molho",
-      "preco": 27,
-      "id": 4
+      "preco": 27
     }
   ],
+
   "Batata Frita": [
     {
+      "id": 1,
       "nome": "Batata tradicional",
-      "preco": 8.99,
-      "id": 1
+      "preco": 8.99
     },
     {
+      "id": 2,
       "nome": "Batata c/ Cheddar",
-      "preco": 13.99,
-      "id": 2
+      "preco": 13.99
     },
     {
+      "id": 3,
       "nome": "Batata, calabresa e cheddar",
-      "preco": 17.99,
-      "id": 3
+      "preco": 17.99
     }
   ],
+
   "Quaravita": [
     {
+      "id": 1,
       "sabor": "açaí",
-      "preco": 5.99,
-      "id": 1
+      "preco": 5.99
     },
     {
+      "id": 2,
       "sabor": "Maracuja",
-      "preco": 5.99,
-      "id": 2
+      "preco": 5.99
+      
     },
     {
+      "id": 3,
       "sabor": "Laranja com acerola",
-      "preco": 5.99,
-      "id": 3
+      "preco": 5.99
     }
   ],
+
   "Salgados": [
     {
+      "id": 1,
       "nome": "Coxinha",
-      "preco": 5.99,
-      "id": 1
+      "preco": 5.99
     },
     {
+      "id": 2,
       "nome": "Enroladinho de salsicha",
-      "preco": 5.90,
-      "id": 2
+      "preco": 5.90
+      
     },
     {
+      "id": 2,
       "nome": "Quibe",
-      "preco": 5.99,
-      "id": 2
+      "preco": 5.99
     }
   ]
 }
