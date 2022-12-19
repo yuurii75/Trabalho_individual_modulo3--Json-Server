@@ -41,7 +41,11 @@
       "id": 3,
       "nome": "Batata, calabresa e cheddar",
       "preco": 17.99
-    }
+    },
+    {
+      "id" : 4,
+      "nome" : bacon c/ cheddar,
+      "preco" : 10.99
   ],
 
   "Quaravita": [
@@ -60,7 +64,11 @@
       "id": 3,
       "sabor": "Laranja com acerola",
       "preco": 5.99
-    }
+    },
+    {
+      "id" : 4,
+      "sabor" : uva,
+      "preco" :5.99
   ],
 
   "Salgados": [
@@ -76,9 +84,13 @@
       
     },
     {
-      "id": 2,
+      "id": 3,
       "nome": "Quibe",
       "preco": 5.99
-    }
+    },
+    {
+      "id" : 4,
+      "nome" : enroladinho de queijo c/ presunto,
+      "preco" :5.99
   ]
 }
