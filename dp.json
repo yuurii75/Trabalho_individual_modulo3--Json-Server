@@ -44,7 +44,7 @@
     },
     {
       "id" : 4,
-      "nome" : bacon c/ cheddar,
+      "nome" : "bacon c/ cheddar",
       "preco" : 10.99
   ],
 
@@ -67,7 +67,7 @@
     },
     {
       "id" : 4,
-      "sabor" : uva,
+      "sabor" : "uva",
       "preco" :5.99
   ],
 
@@ -90,7 +90,7 @@
     },
     {
       "id" : 4,
-      "nome" : enroladinho de queijo c/ presunto,
+      "nome" : "enroladinho de queijo c/ presunto",
       "preco" :5.99
   ]
 }
