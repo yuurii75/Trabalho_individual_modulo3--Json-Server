@@ -46,6 +46,7 @@
       "id" : 4,
       "nome" : "bacon c/ cheddar",
       "preco" : 10.99
+    }
   ],
 
   "Quaravita": [
@@ -69,6 +70,7 @@
       "id" : 4,
       "sabor" : "uva",
       "preco" :5.99
+    }
   ],
 
   "Salgados": [
@@ -92,5 +94,6 @@
       "id" : 4,
       "nome" : "enroladinho de queijo c/ presunto",
       "preco" :5.99
+    }
   ]
 }
