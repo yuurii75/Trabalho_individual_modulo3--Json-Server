@@ -26,29 +26,6 @@
     }
   ],
 
-  "Batata Frita": [
-    {
-      "id": 1,
-      "nome": "Batata tradicional",
-      "preco": 8.99
-    },
-    {
-      "id": 2,
-      "nome": "Batata c/ Cheddar",
-      "preco": 13.99
-    },
-    {
-      "id": 3,
-      "nome": "Batata, calabresa e cheddar",
-      "preco": 17.99
-    },
-    {
-      "id" : 4,
-      "nome" : "bacon c/ cheddar",
-      "preco" : 10.99
-    }
-  ],
-
   "Quaravita": [
     {
       "id": 1,
